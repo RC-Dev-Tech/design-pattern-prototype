@@ -2,7 +2,6 @@
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
 ---
-<br>
 
 <!--ts-->
 ## 目錄
@@ -15,26 +14,23 @@
 <!--te-->
 
 ---
-<br>
 
 ## 目的
 Prototype設計模式的目的是通過複製現有對象來創建新對象，<br>
 從而避免創建複雜對象的開銷，同時維護對象的封裝性。<br>
 
 ---
-<br>
 
 ## 使用時機
 當創建新對象的過程很複雜或開銷很大，而且要創建的對象和現有對象很相似時，可以使用Prototype模式。<br>
 
 ---
-<br>
 
 ## URL結構圖
 ![](https://drive.google.com/uc?id=1QadqEoNQBrdVnwugg0Jifz10B7gUprLd)
 > 圖片來源：[Refactoring.Guru - Prototype](https://refactoring.guru/design-patterns/prototype)
+
 ---
-<br>
 
 ## 實作成員
 * Prototype
@@ -45,23 +41,18 @@ Prototype設計模式的目的是通過複製現有對象來創建新對象，<b
   * 使用Prototype模式的客戶端，通過複製現有對象來創建新對象。
 
 ---
-<br>
 
 ## 實作範例:
 - [待補...]() 
 
-
 ---
-<br>
 
 ## 參考資料
 * [Wiki - Prototype Pattern](https://en.wikipedia.org/wiki/Prototype_pattern) <br>
 * [Refactoring.Guru - Prototype](https://refactoring.guru/design-patterns/prototype) <br>
 
 ---
-<br>
 
----
 <!--ts-->
 #### [目錄 ↩](#目錄)
 <!--te-->
