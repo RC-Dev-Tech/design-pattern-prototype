@@ -43,7 +43,7 @@ Prototype設計模式的目的是通過複製現有對象來創建新對象，<b
 ---
 
 ## 實作範例:
-- [待補...]() 
+- [Example](https://github.com/RC-Dev-Tech/design-pattern-prototype/blob/main/C%2B%2B/main.cpp) - Singleton Pattern (C++)
 
 ---
 
